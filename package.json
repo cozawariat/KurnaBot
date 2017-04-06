@@ -16,6 +16,7 @@
     ""
   ],
   "scripts": {
+    "start": "node ./lib/index.js",
     "bot": "node ./lib/index.js",
     "prepublish": "gulp prepublish",
     "test": "gulp"
